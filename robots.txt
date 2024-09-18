@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ouhantic.github.io/sitemap.html.gz
+Sitemap: https://ouhantic.github.io/app/sitemap.html.gz
+Sitemap: https://ouhantic.github.io/assets/sitemap.html.gz
+Sitemap: https://ouhantic.github.io/css/sitemap.html.gz
+Sitemap: https://ouhantic.github.io/includes/sitemap.html.gz
+Sitemap: https://ouhantic.github.io/item/sitemap.html.gz
+Sitemap: https://ouhantic.github.io/src/sitemap.html.gz
